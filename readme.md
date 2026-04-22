@@ -1,6 +1,7 @@
 # Flood Prevention Using River Level Prediction
 
 LSTM and Attention-LSTM models that predict the next-minute river level from the previous 60 minutes of multivariate weather, rainfall, and river level sensor data in Dublin, Ireland (2021–2025).
+The data is provided by Smart Dublin https://data.smartdublin.ie/
 
 ## Overview
 
